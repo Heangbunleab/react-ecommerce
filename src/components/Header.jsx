@@ -13,7 +13,7 @@ function Header() {
                     </svg>
 
                 </button>
-                <h3 className="font-bold">MasterIT Store</h3>
+                <h3 className="font-bold">MasterIT Stores</h3>
             </div>
             <ul className="hidden lg:flex items-center gap-4">
                 <li>
